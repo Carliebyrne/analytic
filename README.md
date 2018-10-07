@@ -1,3 +1,3 @@
-# analytic
+# Analytic
 
-A python library for fetching, cleaning & sorting the CSV file
+Analytic is a python :closed_book: library for fetching, cleaning & map-reducing the comma separated files
